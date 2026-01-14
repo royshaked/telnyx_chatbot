@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-python-dotenv
 httpx
 websockets
+python-dotenv
